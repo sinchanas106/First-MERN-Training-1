@@ -119,3 +119,17 @@
 .event-card button:hover {
   background-color: #1d4ed8;
 }
+
+.footer{
+  padding: 45px 8%;
+  text-align: center;
+  background-color: #0f172a;
+  color:#e2e8f0;
+}
+.footer h2{
+  margin-top:0;
+  color:chartreuse;
+}
+.footer p{
+  color:hotpink;
+}
